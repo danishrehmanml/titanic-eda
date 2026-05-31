@@ -21,9 +21,3 @@ Matplotlib and Seaborn.
 
 ## Dataset
 Titanic dataset from Kaggle/datasciencedojo
-
-## Project Structure
-titanic-eda/
-│
-├── Titanic.ipynb    ← main notebook
-└── README.md        ← this file
